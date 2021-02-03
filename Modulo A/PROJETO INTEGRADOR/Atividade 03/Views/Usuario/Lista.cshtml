@@ -1,0 +1,34 @@
+@model IEnumerable<Usuario>
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>Login</th>
+            <th>Senha</th>
+            <th>Conta</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+
+    <tr>
+        <td>1</td>
+        <td>Tairik</td>
+        <td>17/04/2000</td>
+        <td>Tairik</td>
+        <td>Tairik</td>
+        <td>Administrador</td>
+        <td>
+            <a href="/Usuario/Editar">Editar</a>
+            <a href="#" onclick="alert('Usuario Removido')">Remover</a>
+        </td>
+    </tr>
+    <tbody>
+
+    </tbody>
+</table>

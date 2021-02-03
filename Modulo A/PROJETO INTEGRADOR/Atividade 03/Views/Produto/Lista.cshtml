@@ -1,0 +1,54 @@
+@model Produto
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<form method="POST" asp-action="Editar">
+
+<div style="text-align:left">
+        <h1>Listar produtos</h1>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>IdProduto</th>
+                <th>Nome do produto</th>
+                <th>Marca do produto</th>
+                <th>Cor do produto</th>
+                <th>Tamanho do produto</th>
+                <th>Quantidade no estoque</th>
+                <th>Preço do produto</th>
+                <th>Data de cadastro</th>
+                <th>Id do usuario</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+
+        <tr>
+            <td>1</td>
+            <td>Camiseta</td>
+            <td>Marca</td>
+            <td>Azul</td>
+            <td>G</td>
+            <td>56</td>
+            <td>19,99</td>
+            <td>22/12/2020</td>
+            <td>1</td>
+            <td>
+                <a href="/Produto/Editar">Editar</a>
+                <a href="#" onclick="alert('Produto Removido')">Remover</a>
+            </td>
+        </tr>
+
+        <tbody>
+
+        </tbody>
+    </table>
+
+
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>

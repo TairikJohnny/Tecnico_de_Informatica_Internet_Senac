@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de produto</title>
+</head>
+<body>
+
+    <nav>
+        <ul>
+              <li><a href="/Home.html">Home</a></li>
+              <li><a href="/Login.html">Login</a></li>
+              <li><a href="/CadastroUsuario.html">Cadastro de usuario</a></li>
+              <li><a href="/ListarUsuario.html">Listar usuario</a></li>
+              <li><a href="/CadastroProduto.html">Cadastro produto</a></li>
+              <li><a href="/ListarProdutos.html">Lista de produtos</a></li>
+              <li><a href="/Produtos.html">Produtos</a></li>
+      </ul>
+    </nav>
+
+    <div style="text-align:left">
+        <h1>Cadastro de produto</h1>
+    </div>
+
+    <p>
+        <label asp-for="NomeProduto">Nome do produto</label>
+        <input asp-for="NomeProduto" required placeholder="Insira o nome do produto">
+    </p>
+    <p>
+        <label asp-for="MarcaProduto">Marca do produto</label>
+        <input asp-for="MarcaProduto" required placeholder="Informe a marca do produto">
+    </p>
+    <p>
+        <label asp-for="CorProduto">Cor do produto</label>
+        <input asp-for="CorProduto" required placeholder="Informe a cor do produto">
+    </p>
+    <p>
+        <label asp-for="TamanhoProduto">Tamanho do produto</label>
+        <input asp-for="TamanhoProduto" required placeholder="Tamanho do produto">
+    </p>
+    <p>
+        <label asp-for="QuantidadeEstoque">Quantidade no estoque</label>
+        <input asp-for="QuantidadeEstoque" required placeholder="Informe a quantidade no estoque">
+    </p>
+    <p>
+        <label asp-for="Preco">Preço do produto</label>
+        <input asp-for="Preco" required placeholder="Informe o preço do produto">
+    </p>
+    <p>
+        <label asp-for="DataCadastro">Data de cadastro</label>
+        <input asp-for="DataCadastro" required placeholder="Informe a data de cadastro">
+    </p>
+    <p>
+        <label asp-for="Id">Id do usuario que está cadastrando</label>
+        <input asp-for="Id" required placeholder="Informe o Id do usuario">
+    </p>
+
+    <p>
+        <input type="submit" value="Cadastrar" onclick="alert('Produto cadastrado com sucesso!')">
+    </p>
+    
+</body>
+</html>

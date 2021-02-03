@@ -1,0 +1,49 @@
+@model IEnumerable<Produto>
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<form method="POST" asp-action="Editar">
+
+    <div style="text-align:left">
+        <h1>Listar produtos</h1>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>IdProduto</th>
+                <th>Nome do produto</th>
+                <th>Marca do produto</th>
+                <th>Cor do produto</th>
+                <th>Tamanho do produto</th>
+                <th>Quantidade no estoque</th>
+                <th>Preço do produto</th>
+                <th>Data de cadastro</th>
+                <th>Id do usuario</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        @foreach (Produto u in Model)
+        {
+            <tr>
+                <td>@u.IdProduto</td>
+                <td>@u.NomeProduto</td>
+                <td>@u.MarcaProduto</td>
+                <td>@u.CorProduto</td>
+                <td>@u.TamanhoProduto</td>
+                <td>@u.QuantidadeEstoque</td>
+                <td>@u.Preco</td>
+                <td>@u.DataCadastro</td>
+                <td>@u.Id</td>
+                <td>
+                    <a href="/Produto/Editar?IdProduto=@u.IdProduto">Editar</a>
+                    <a href="/Produto/Remover?IdProduto=@u.IdProduto">Remover</a>
+                </td>
+            </tr>
+        }
+        <tbody>
+
+        </tbody>
+    </table>
+</form>

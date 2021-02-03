@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de usuario</title>
+</head>
+<body>
+    <nav>
+        <ul>
+              <li><a href="/Home.html">Home</a></li>
+              <li><a href="/Login.html">Login</a></li>
+              <li><a href="/CadastroUsuario.html">Cadastro de usuario</a></li>
+              <li><a href="/ListarUsuario.html">Listar usuario</a></li>
+              <li><a href="/CadastroProduto.html">Cadastro produto</a></li>
+              <li><a href="/ListarProdutos.html">Lista de produtos</a></li>
+              <li><a href="/Produtos.html">Produtos</a></li>
+      </ul>
+    </nav>
+
+    <div style="text-align:left">
+        <h1>Cadastro de usuario</h1>
+    </div>
+
+    <p>
+        <label asp-for="Nome">Nome</label>
+        <input asp-for="Nome" required placeholder="Insira o nome">
+    </p>
+    <p>
+        <label asp-for="DataNascimento">Data de Nascimento</label>
+        <input asp-for="DataNascimento" required placeholder="DD/MM/AAAA">
+    </p>
+    <p>
+        <label asp-for="Login">Login</label>
+        <input asp-for="Login" required placeholder="Insira um login">
+    </p>
+    <p>
+        <label asp-for="Senha">Senha</label>
+        <input asp-for="Senha" required placeholder="Insira uma senha">
+    </p>
+    <p>
+        <label asp-for="Conta">Tipo de conta:</label>
+        <select asp-for="Conta" name="Conta" class="select-style" required>
+            <option value="colaborador">Colaborador</option>
+            <option value="administrador">Administrador</option>
+        </select>
+    </p>
+    <p>
+        <input type="submit" value="Cadastrar" onclick="alert('Usuario cadastrado com sucesso')">
+    </p>
+    
+</body>
+</html>

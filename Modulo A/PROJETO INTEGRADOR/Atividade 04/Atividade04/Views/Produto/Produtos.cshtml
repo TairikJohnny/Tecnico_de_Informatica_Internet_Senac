@@ -1,0 +1,36 @@
+@using Microsoft.AspNetCore.Http;
+@model List<Produto>
+@{
+    ViewData["Title"] = "Produto";
+}
+
+
+<h3>Produtos</h3>
+
+<div>
+
+    @foreach (Produto p in Model)
+    {
+        <style>
+            div.box {
+                display: inline-block;
+                width: 300px;
+            }
+        </style>
+
+        <div class="box">
+            <img src="../img/roupa3.jpg" width="300" height="300"/>
+        </div>
+
+        <h6>ID: @p.IdProduto - Nome: @p.NomeProduto</h6>
+        <p>Marca: @p.MarcaProduto 
+            <br>Cor: @p.CorProduto
+            <br>Tamanho: @p.TamanhoProduto
+            <br>Quantidade estoque: @p.QuantidadeEstoque
+            <br>Preço: R$ @p.Preco
+            <br>Data de cadastro: @p.DataCadastro
+            <br><i>Usuário: @p.Id</i>
+        </p>
+    }
+</div>
+</main>

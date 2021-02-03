@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <nav>
+        <ul>
+              <li><a href="/Home.html">Home</a></li>
+              <li><a href="/Login.html">Login</a></li>
+              <li><a href="/CadastroUsuario.html">Cadastro de usuario</a></li>
+              <li><a href="/ListarUsuario.html">Listar usuario</a></li>
+              <li><a href="/CadastroProduto.html">Cadastro produto</a></li>
+              <li><a href="/ListarProdutos.html">Lista de produtos</a></li>
+              <li><a href="/Produtos.html">Produtos</a></li>
+      </ul>
+    </nav>
+
+    <div style="text-align:left">
+        <h1>Login</h1>
+    </div>
+
+    <p>
+        <label asp-for="Login">Login</label>
+        <input asp-for="Login" required placeholder="Insira o login">
+    </p>
+    <p>
+        <label asp-for="Senha">Senha</label>
+        <input asp-for="Senha" type="password" required placeholder="Insira a senha">
+    </p>
+    <p>
+        <input type="submit" value="Entrar" onclick="alert('Login realizado com sucesso')">
+    </p>
+
+</body>
+</html>

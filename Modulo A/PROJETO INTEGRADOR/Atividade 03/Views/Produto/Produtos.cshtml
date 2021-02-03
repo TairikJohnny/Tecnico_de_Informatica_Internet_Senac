@@ -1,0 +1,30 @@
+@using Microsoft.AspNetCore.Http;
+@model List<Produto>
+@{
+    ViewData["Title"] = "Produto";
+}
+
+
+<div style="text-align:left">
+    <h1>Produtos</h1>
+</div>
+
+<div class="box">
+    <img src="../img/roupa.jpg" width="300" height="300" />
+    <span> Nova coleção! </span>
+</div>
+<div class="box">
+    <img src="../img/roupa1.jpg" width="300" height="300" />
+    <span> Roupas com desconto </span>
+</div>
+<div class="box">
+    <img src="../img/roupa2.jpg" width="300" height="300" />
+    <span> Coleção verão </span>
+</div>
+
+<style>
+    div.box {
+        display: inline-block;
+        width: 300px;
+    }
+</style>

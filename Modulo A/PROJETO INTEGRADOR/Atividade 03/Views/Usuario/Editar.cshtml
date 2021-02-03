@@ -1,0 +1,41 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<form method="POST" asp-action="Editar">
+
+    <input type="hidden" asp-for="Id">
+
+    <p>
+        <label asp-for="Nome">Nome</label>
+        <input asp-for="Nome" required placeholder="Insira o nome">
+    </p>
+    <p>
+        <label asp-for="DataNascimento">Data de Nascimento</label>
+        <input asp-for="DataNascimento" required placeholder="DD/MM/AAAA">
+    </p>
+    <p>
+        <label asp-for="Login">Login</label>
+        <input asp-for="Login" required placeholder="Insira um login">
+    </p>
+    <p>
+        <label asp-for="Senha">Senha</label>
+        <input asp-for="Senha" required placeholder="Insira uma senha">
+    </p>
+    <p>
+        <label asp-for="Conta">Tipo de conta:</label>
+        <select asp-for="Conta" name="Conta" class="select-style" required>
+            <option value="colaborador">Colaborador</option>
+            <option value="administrador">Administrador</option>
+        </select>
+    </p>
+    <p>
+        <input type="submit" value="Editar" onclick="alert('Usuario editado com sucesso')">
+    </p>
+
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>
