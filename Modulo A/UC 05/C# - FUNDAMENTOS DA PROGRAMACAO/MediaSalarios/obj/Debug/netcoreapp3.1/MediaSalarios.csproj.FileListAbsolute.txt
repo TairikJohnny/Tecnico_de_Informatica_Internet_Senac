@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\bin\Debug\netcoreapp3.1\MediaSalarios.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\MediaSalarios\obj\Debug\netcoreapp3.1\MediaSalarios.genruntimeconfig.cache

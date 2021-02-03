@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\bin\Debug\netcoreapp3.1\ClientePOO.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\ClientePOO\obj\Debug\netcoreapp3.1\ClientePOO.genruntimeconfig.cache

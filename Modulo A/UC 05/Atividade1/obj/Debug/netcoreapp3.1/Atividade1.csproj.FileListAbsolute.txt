@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.genruntimeconfig.cache

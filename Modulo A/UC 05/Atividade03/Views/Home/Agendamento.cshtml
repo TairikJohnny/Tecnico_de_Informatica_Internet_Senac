@@ -1,0 +1,35 @@
+@model Agendamento;
+
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<h2>Pré-Agendamento</h2>
+
+<form method="post">
+    <p>
+        <label asp-for="Nome">Informar o seu nome:</label>
+        <input asp-for="Nome" required>
+    </p>
+    <p>
+        <label asp-for="Telefone">Informar o seu telefone:</label>
+        <input asp-for="Telefone" required>
+    </p>
+    <p>
+        <label asp-for="Data">Informar a data:</label>
+        <input asp-for="Data" required>
+    </p>
+    <p>
+        <label asp-for="Animal">Informar o nome do seu animal:</label>
+        <input asp-for="Animal" required>
+    </p>
+    <p>
+        <label asp-for="Necessidade">Informar a necessidade:</label>
+        <textarea asp-for="Necessidade"></textarea>
+    </p>
+
+    <p>
+        <input type="submit" value="Enviar agendamento">
+    </p>
+
+</form>

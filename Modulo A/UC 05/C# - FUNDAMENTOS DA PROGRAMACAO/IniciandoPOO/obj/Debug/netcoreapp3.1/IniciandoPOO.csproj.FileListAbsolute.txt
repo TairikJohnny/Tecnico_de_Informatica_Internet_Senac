@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\bin\Debug\netcoreapp3.1\IniciandoPOO.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\IniciandoPOO\obj\Debug\netcoreapp3.1\IniciandoPOO.genruntimeconfig.cache

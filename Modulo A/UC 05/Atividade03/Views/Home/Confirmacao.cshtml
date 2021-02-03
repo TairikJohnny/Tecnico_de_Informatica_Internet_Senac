@@ -1,0 +1,17 @@
+@model Agendamento;
+
+@{
+    ViewData["Title"] = "Confirmação de agendamento";
+}
+
+<h1>Agendamento cadastrado com sucesso!!!</h1>
+
+<h3>Seus dados cadastrados são:</h3>
+
+<ul>
+    <li>Nome: @Dados.agendado.Nome</li>
+    <li>Telefone: @Dados.agendado.Telefone</li>
+    <li>Data: @Dados.agendado.Data</li>
+    <li>Animal: @Dados.agendado.Animal</li>
+    <li>Necessidade: @Dados.agendado.Necessidade</li>
+</ul>

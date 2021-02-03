@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\UC - CODIFICAR APLICACOES WEB\C# LINGUEGEM DE SCRIPTS E FUNDAMENTOS DA PROGRAMACAO\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.genruntimeconfig.cache

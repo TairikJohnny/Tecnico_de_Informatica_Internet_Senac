@@ -1,0 +1,23 @@
+@{
+  DateTime date = DateTime.Now;
+  string hourMinutes = date.ToString("HH:mm:ss");
+}
+<p>A hora certa é: @hourMinutes </p>
+
+<p>
+@if(date.Hour >= 5 && date.Hour <= 12)
+{
+  <strong>Bom dia!</strong>
+}
+else
+{
+  if(date.Hour >= 13 && date.Hour <= 18)
+  {
+    <strong>Boa tarde!</strong>
+  }
+  else
+  {
+    <strong>Boa noite!</strong>
+  }
+}
+</p>   

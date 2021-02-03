@@ -1,0 +1,28 @@
+﻿@model ItemPedido;
+
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<h3>Preencha os compos abaixo para cadastrar um novo item</h3>
+<br>
+
+<form method="post">
+    <p>
+        <label asp-for="Descricao">Descrição do item:</label>
+        <input asp-for="Descricao" required>
+    </p>
+    <p>
+        <label asp-for="Valor_unitario">Valor unitario do item:</label>
+        <input asp-for="Valor_unitario" required>
+    </p>
+    <p>
+        <label asp-for="Quantidade">Quantidade do item:</label>
+        <input asp-for="Quantidade" required>
+    </p>
+
+    <p>
+        <input type="submit" value="Cadastrar">
+    </p>
+
+</form>

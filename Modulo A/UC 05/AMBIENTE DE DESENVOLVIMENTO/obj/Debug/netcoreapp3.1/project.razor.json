@@ -1,0 +1,120 @@
+{
+  "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\AMBIENTE DE DESENVOLVIMENTO.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "AMBIENTE_DE_DESENVOLVIMENTO",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Tests\\Welcome.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Tests\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Home\\Detalhe.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Home\\Detalhe.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\_ViewImports.cshtml",
+      "TargetPath": "NotasAluno\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Home\\Listagem.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Home\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\_ViewStart.cshtml",
+      "TargetPath": "NotasAluno\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Home\\Index.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Tests\\Greetings.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Tests\\Greetings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Home\\Concluido.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Home\\Concluido.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\primeiroMVC\\Views\\Shared\\_Layout2.cshtml",
+      "TargetPath": "primeiroMVC\\Views\\Shared\\_Layout2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tairik Johnny\\Documents\\Tecnico de Informatica para Internet - Senac\\Modulo A\\UC 05 - CODIFICAR APLICACOES WEB\\AMBIENTE DE DESENVOLVIMENTO\\NotasAluno\\Views\\Home\\Cadastro.cshtml",
+      "TargetPath": "NotasAluno\\Views\\Home\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
