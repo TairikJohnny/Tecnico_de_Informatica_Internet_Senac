@@ -1,0 +1,39 @@
+@model IEnumerable<Pacote>
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>IdPacotes</th>
+            <th>NomePacote</th>
+            <th>OrigemPacote</th>
+            <th>DestinoPacote</th>
+            <th>AtrativosPacote</th>
+            <th>Saida</th>
+            <th>Retorno</th>
+            <th>Id</th>
+        </tr>
+    </thead>
+        @foreach (Pacote u in Model)
+        {
+            <tr>
+                <td>@u.IdPacotes</td>
+                <td>@u.NomePacote</td>
+                <td>@u.OrigemPacote</td>
+                <td>@u.DestinoPacote</td>
+                <td>@u.AtrativosPacote</td>
+                <td>@u.Saida</td>
+                <td>@u.Retorno</td>
+                <td>@u.Id</td>
+                <td>
+                    <a href="/Pacote/Editar?IdPacotes=@u.IdPacotes">Editar</a>
+                    <a href="/Pacote/Remover?IdPacotes=@u.IdPacotes">Remover</a>
+                </td>
+            </tr>
+        }
+    <tbody>
+
+    </tbody>
+</table>

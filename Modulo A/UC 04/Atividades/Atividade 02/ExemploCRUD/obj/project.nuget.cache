@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+c7T+X3DHsLjsVj4BnDzmWCi13xYo8dqzjZGblTEBflsef6iA6Jc1OKCWCZCrFxkgLHsDeQd6GKIAePxuwx6Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tairik Johnny\\Desktop\\UC04\\Atividades\\Atividade 02\\ExemploCRUD\\ExemploCRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tairik Johnny\\.nuget\\packages\\mysqlconnector\\1.2.1\\mysqlconnector.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

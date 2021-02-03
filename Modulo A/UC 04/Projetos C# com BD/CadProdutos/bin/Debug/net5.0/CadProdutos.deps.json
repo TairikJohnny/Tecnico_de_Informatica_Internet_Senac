@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CadProdutos/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "1.2.0"
+        },
+        "runtime": {
+          "CadProdutos.dll": {}
+        }
+      },
+      "MySqlConnector/1.2.0": {
+        "runtime": {
+          "lib/net5.0/MySqlConnector.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadProdutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-16DWy96uNr0ZCt3Qo0ZQwWcEQv6lwgcaolosNTdH+7hDTq45RfUEg09f9aI8bc6qDXXjQ1EacooJQ8AShg8ibg==",
+      "path": "mysqlconnector/1.2.0",
+      "hashPath": "mysqlconnector.1.2.0.nupkg.sha512"
+    }
+  }
+}

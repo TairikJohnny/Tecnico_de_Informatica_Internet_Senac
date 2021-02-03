@@ -1,0 +1,32 @@
+@using Microsoft.AspNetCore.Http;
+@model List<Pacote>
+@{
+    ViewData["Title"] = "Pacote";
+}
+
+
+<h3>Pacotes </h3>
+
+<h5>venha conferir as nossas promoções!</h5>
+
+<div>
+
+    @foreach (Pacote p in Model)
+    {
+        <style>
+            div.box {
+                display: inline-block;
+                width: 300px;
+            }
+        </style>
+
+        <div class="box">
+            <img src="../img/card-default.jpg" width="300" height="300"/>
+        </div>
+
+        <h6>@p.NomePacote</h6>
+        <p>Saindo de @p.OrigemPacote <br>Saída: @p.Saida<br>Retorno: @p.Retorno<br><i>Usuário: @p.Id</i>
+        </p>
+    }
+</div>
+</main>

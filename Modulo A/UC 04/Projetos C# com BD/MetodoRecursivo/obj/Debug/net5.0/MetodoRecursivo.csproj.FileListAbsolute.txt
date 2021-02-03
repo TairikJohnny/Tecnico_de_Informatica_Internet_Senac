@@ -1,0 +1,16 @@
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.exe
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.deps.json
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.runtimeconfig.json
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.dll
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\ref\MetodoRecursivo.dll
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\bin\Debug\net5.0\MetodoRecursivo.pdb
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.dll
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\ref\MetodoRecursivo.dll
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.pdb
+C:\Users\Tairik Johnny\Desktop\UC04\Projetos C# com BD\MetodoRecursivo\obj\Debug\net5.0\MetodoRecursivo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3ShOYJ457jAwnZjRl6yrUap0IjPSoBmcQeCfxXGfJy1mtaeemISkbUqZ+FAg4vmsiHGzzaIsz4Fe3Sca8n+tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tairik Johnny\\Desktop\\Projetos Dotnet MVC com protocolo HTTPS\\SQLInjection\\SQLInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tairik Johnny\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

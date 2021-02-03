@@ -1,0 +1,47 @@
+@model Pacote
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<form method="POST" asp-action="Editar">
+
+    <input type="hidden" asp-for="IdPacotes">
+
+    <p>
+        <label asp-for="NomePacote">Nome do pacote</label>
+        <input asp-for="NomePacote" required placeholder="Insira o nome do pacote">
+    </p>
+    <p>
+        <label asp-for="OrigemPacote">Origem do pacote</label>
+        <input asp-for="OrigemPacote" required placeholder="Informe a origem do pacote">
+    </p>
+    <p>
+        <label asp-for="DestinoPacote">Destino do pacote</label>
+        <input asp-for="DestinoPacote" required placeholder="Informe destino do pacote">
+    </p>
+    <p>
+        <textarea asp-for="AtrativosPacote">Atrativos do pacote</textarea>
+        <input asp-for="AtrativosPacote" required placeholder="Informe os atrativos do pacote">
+    </p>
+    <p>
+        <label asp-for="Saida">Data de saida</label>
+        <input asp-for="Saida" required placeholder="Informe a data de saida">
+    </p>
+    <p>
+        <label asp-for="Retorno">Data de Retorno</label>
+        <input asp-for="Retorno" required placeholder="Informe a data de retorno">
+    </p>
+    <p>
+        <label asp-for="Id">Id do usuario</label>
+        <input asp-for="Id" required placeholder="Informe o Id do usuario">
+    </p>
+
+    <p>
+        <input type="submit" value="Editar">
+    </p>
+
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>
