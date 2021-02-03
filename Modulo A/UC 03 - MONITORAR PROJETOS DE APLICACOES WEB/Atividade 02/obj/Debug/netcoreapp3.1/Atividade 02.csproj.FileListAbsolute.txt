@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.genruntimeconfig.cache

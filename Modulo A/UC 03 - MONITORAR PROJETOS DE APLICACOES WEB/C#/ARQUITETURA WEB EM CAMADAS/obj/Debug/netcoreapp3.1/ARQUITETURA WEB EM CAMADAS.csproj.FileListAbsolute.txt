@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\bin\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ARQUITETURA WEB EM CAMADAS\obj\Debug\netcoreapp3.1\ARQUITETURA WEB EM CAMADAS.genruntimeconfig.cache

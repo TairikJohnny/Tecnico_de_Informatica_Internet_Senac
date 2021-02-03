@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\bin\Debug\netcoreapp3.1\VerificaIdade.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaIdade\obj\Debug\netcoreapp3.1\VerificaIdade.genruntimeconfig.cache

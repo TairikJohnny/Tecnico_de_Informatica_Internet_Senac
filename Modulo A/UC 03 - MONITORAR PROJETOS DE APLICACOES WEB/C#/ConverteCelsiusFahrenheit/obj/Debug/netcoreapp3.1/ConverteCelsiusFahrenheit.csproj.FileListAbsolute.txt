@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\bin\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\ConverteCelsiusFahrenheit\obj\Debug\netcoreapp3.1\ConverteCelsiusFahrenheit.genruntimeconfig.cache

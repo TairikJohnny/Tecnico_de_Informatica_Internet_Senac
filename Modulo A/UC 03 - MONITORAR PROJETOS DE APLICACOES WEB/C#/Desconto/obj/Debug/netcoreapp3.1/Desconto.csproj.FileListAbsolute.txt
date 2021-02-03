@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\bin\Debug\netcoreapp3.1\Desconto.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Desconto\obj\Debug\netcoreapp3.1\Desconto.genruntimeconfig.cache

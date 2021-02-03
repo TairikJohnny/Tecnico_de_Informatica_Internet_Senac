@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\bin\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\MediaAritmetica\obj\Debug\netcoreapp3.1\MediaAritmetica.genruntimeconfig.cache

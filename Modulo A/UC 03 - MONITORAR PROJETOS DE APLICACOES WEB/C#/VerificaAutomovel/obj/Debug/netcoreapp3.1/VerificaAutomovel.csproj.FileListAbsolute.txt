@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\bin\Debug\netcoreapp3.1\VerificaAutomovel.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\VerificaAutomovel\obj\Debug\netcoreapp3.1\VerificaAutomovel.genruntimeconfig.cache

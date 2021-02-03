@@ -1,0 +1,13 @@
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.exe
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.deps.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.runtimeconfig.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.runtimeconfig.dev.json
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\bin\Debug\netcoreapp3.1\Media_e_Frequencia.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.csprojAssemblyReference.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.AssemblyInfoInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.AssemblyInfo.cs
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.csproj.CoreCompileInputs.cache
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.dll
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.pdb
+C:\Users\Tairik Johnny\Documents\Tecnico_Informatica_Internet\MODULO A - MONITORAR PROJETOS DE APLICACOES WEB\Media_e_Frequencia\obj\Debug\netcoreapp3.1\Media_e_Frequencia.genruntimeconfig.cache
