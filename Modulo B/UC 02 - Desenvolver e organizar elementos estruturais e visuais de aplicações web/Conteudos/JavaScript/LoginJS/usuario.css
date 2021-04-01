@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lucida Sans’, 'Verdana', 'sans-serif';
+}
+header{
+    border-bottom: 1px solid #666666;
+}
+main{
+    margin: 20px;
+}
+.dica{
+    border: 1px solid #666666;
+    background-color: #e6ffff;
+    padding: 5px;
+}

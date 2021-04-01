@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de pagamento</title>
+    <link rel="stylesheet" type="text/css" href="pagamento.css" />
+</head>
+<body>
+    <header>
+        <h1>Efetue seu pagamento</h1>
+    </header>
+    <main>
+        <ul id="formasPagto">
+            <li><a href="#" id="abaBoleto">Boleto</a></li>
+            <li><a href="#" id="abaCartao">Cartão</a></li>
+        </ul>
+        <div id="pagBoleto" class="painel">
+            <p>Clique no botão abaixo para gerar um boleto. O pagamento deve ser realizado em até ias úteis</p>
+            <div>
+                <input type="Button" value="Gerar Boleto" />
+            </div>
+        </div>
+        <div id="pagCartao" class="painel">
+            <p>Informe os dados do cartão</p>
+            <form id="formCartao">
+                <div>
+                    <label for="nroCartao">Número do Cartão:</label>
+                    <input type="text" maxlength="16" id="nroCartao" />
+                </div>
+                <div>
+                    <label for="nomeCartao">Nome do Titular:</label>
+                    <input type="text" maxlength="50" id="nomeCartao"/>
+                </div>
+                <div>
+                    <label>Validade</label>
+                    <input type="number" min="1" max="12" id="mesValidade" />
+                    <input type="number" min="2019" maxlength="4" id="anoValidade" />
+                </div>
+                <div>
+                    <input type="submit" value="Finalizar pagamento" />
+                </div>
+            </form>
+        </div>
+    </main>
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="pagamento.js"></script>
+</body>
+</html>

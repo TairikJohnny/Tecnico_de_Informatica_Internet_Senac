@@ -1,0 +1,28 @@
+body{
+    font-family:'Lucida Sans', Verdana, sans-serif;
+    color: #666666;
+}
+.erro{
+    color: red;
+}
+#formasPagto{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+#formasPagto li{
+    float: left; 
+    padding: 15px;
+    margin: 10px;
+    background-color: #fbf2e8 ;
+}
+.painel{
+    border: 1px solid black;
+    background-color: #fbf2e8;
+    height: 15em;
+    padding: 30px;
+    clear: both;
+}
+#formCartao div{
+    margin-top: 20px;
+}

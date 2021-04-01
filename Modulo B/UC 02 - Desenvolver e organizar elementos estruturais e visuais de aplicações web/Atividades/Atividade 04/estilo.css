@@ -1,0 +1,171 @@
+#topo{
+    display: flex;
+    /* distrubui os elementos na horizontal*/
+    justify-content: space-around;
+    /* alinhamento dos itens*/
+    align-items: flex-start;
+    /*não vai deixar os elementos se encostarem*/
+    flex-wrap: wrap;
+    /*não vai deixar os elementos descerem muito por causa do flex-wrap*/
+    align-content: flex-start;
+}
+
+#caixa-pesquisa{
+    margin-top: 50px;
+}
+
+svg{
+    display: inline-block;
+    font-size: inherit;
+    height: 2em;
+    overflow: visible;
+    vertical-align: -.125em;
+}
+
+#user{
+    margin-top: 50px;
+    width: 90px;  
+}
+
+.user{
+    position: absolute;
+    color:black;
+    margin-left: 10px;
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+#moda{
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.moda-masculina{
+    display: flex;
+    align-items: center;
+}
+
+.link-moda-masculina{
+    position: absolute;
+    color:black;
+    text-align: center;
+    top: 1690px;
+    width: 315px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.moda-feminina{
+    display: flex;
+    align-items: center;
+}
+
+.link-moda-feminina{
+    position: absolute;
+    color:black;
+    text-align: center;
+    top: 1690px;
+    width: 315px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.moda-feminina{
+    display: flex;
+    align-items: center;
+}
+
+.link-moda-feminina{
+    position: absolute;
+    color:black;
+    text-align: center;
+    top: 1690px;
+    width: 315px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.pijama{
+    display: flex;
+    align-items: center;
+}
+
+.link-pijama{
+    position: absolute;
+    color:black;
+    text-align: center;
+    top: 1690px;
+    width: 315px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.esportivo{
+    display: flex;
+    align-items: center;
+}
+
+.link-esportivo{
+    position: absolute;
+    color:black;
+    text-align: center;
+    top: 1690px;
+    width: 315px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+    width: 100%;
+}
+.gallery_product .title{
+  color:black;
+  margin: 0;
+  position:relative;
+  bottom:800px;
+  left:10px;
+}
+.gallery_product .title small{
+  display:block;
+}

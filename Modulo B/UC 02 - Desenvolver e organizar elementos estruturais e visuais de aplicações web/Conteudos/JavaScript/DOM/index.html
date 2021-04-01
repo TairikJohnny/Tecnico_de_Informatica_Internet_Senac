@@ -1,0 +1,41 @@
+<html>
+<body>
+    <div id="page">
+        <h1>Compre hoje!</h1>
+        <ul>
+            <li id="one" class="hot">iphone <em>novo</em></gt>
+            <li id="two" class="hot">Motorola G7</li>
+            <li id="three" class="hot">Samsung S10</li>
+        </ul>
+        <script>
+            var vetorElementos = document.querySelectorAll(".hot");
+            for(var i = 0; i< vetorElementos.length; i++)
+            {
+                vetorElementos[i].style.color = "red";
+            }
+            
+            // Adicionando um novo elemento a página
+            var novoLi = document.createElement("li");
+            var textoDoLi = document.createTextNode("Novo item de li");
+            var elementoUl = document.getElementsByTagName("ul")[0]; //rimeiro elemento "ul" encontrado
+            novoLi.appendChild(textoDoLi);
+            elementoUl.appendChild(novoLi);
+
+            // Removendo um elemento, no caso vamos remover o item com id 'one'
+            var liRemover = document.getElementById("one");
+            var pai = liRemover.parentNode;
+            pai.removeChild(liRemover);
+
+            // Descobrindo o conteudo das tags atraves do innerHTML
+            var elementoLi = document.getElementById("two");
+            alert(elementoLi.innerHTML);
+            elementoLi = document.getElementById("three");
+            alert(elementoLi.innerHTML);
+
+            // Adicionando um link no item usando innerHTML
+            var li1 = document.getElementById("three");
+            li1.innerHTML = "<a href='#'>Clique aqui!</a>"; 
+        </script>
+    </div>
+</body>
+</html>
