@@ -2,7 +2,12 @@
     ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+
+<img src="img/banner.jpg" class="img-fluid" alt="Banner" max-width: 100% height: auto>
+
+<div id="nome-loja" class="text-center">
     <h1 class="display-4">NujuStore</h1>
 </div>
 
@@ -10,19 +15,38 @@
 <br>
 <br>
 <br>
+<div id="frase">
+    <div style="text-align:left">
+        <h3>Somos uma loja de roupas femininas</h3>
+        <h3>Venha nos conhecer!</h3>
+    </div>
+    <div>
+        <img src="img/feminino.jpg" alt="Moda Feminina" width=400 height=458>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<div id="contato" style="text-align:right">
+    <p>Aberto de segunda-feira a sexta-feira das 09:00h até 18:00h</p>
+    <p>Sabado das 09:00h até 12:00h</p>
+    <p>Endereço: Avenida Fulano de Tal, 200</p>
+    <p>Telefone para contato: (12)999999999</p>
+    <p>E-mail para contato: najustore@email.com</p>
+</div>
 
-<div style="text-align:left">
-    <h3>Somos uma loja de roupas femininas</h3>
-    <h3>Venha nos conhecer!</h3>
-</div>
-<br>
-<br>
-<br>
-<br>
-<div style="text-align:right">
-    <h4>Aberto de segunda-feira a sexta-feira das 09:00h até 18:00h</h4>
-    <h4>Sabado das 09:00h até 12:00h</h4>
-    <h4>Endereço: Avenida Fulano de Tal, 200</h4>
-    <h4>Telefone para contato: (12)999999999</h4>
-    <h4>E-mail para contato: najustore@email.com</h4>
-</div>
+<style>
+    #contato {
+        font-size: 15px;
+    }
+
+    #nome-loja {
+        margin-top: 30px;
+    }
+
+    #frase{
+        display: flex;
+        justify-content: space-around;
+    }
+</style>
