@@ -5,9 +5,9 @@
 }
 
 
-<h3>Produtos</h3>
+<h1>Produtos cadastrados</h1>
 
-<div>
+<div id="roupas">
 
     @foreach (Produto p in Model)
     {
@@ -19,7 +19,7 @@
         </style>
 
         <div class="box">
-            <img src="../img/roupa3.jpg" width="300" height="300"/>
+            <img src="../img/roupa.jpg" width="300" height="400"/>
         </div>
 
         <h6>ID: @p.IdProduto - Nome: @p.NomeProduto</h6>
@@ -34,3 +34,12 @@
     }
 </div>
 </main>
+
+<style>
+    #roupas{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        width: 50%;
+    }
+</style>
