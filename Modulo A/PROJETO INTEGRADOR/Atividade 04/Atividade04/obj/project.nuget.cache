@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djbbCTwlCQ45eD1Hkyw2pYpICUhFQTz+OvY/w+w5vX0oXdsy+6ohZT1YHVqWmpQE1NmuatCN67XCcX3g1RJcQQ==",
+  "dgSpecHash": "Moz03TWggtQqmq98HR8EZukoVHUvs3DA+CYeL97BVI2N17BwYRXywMXxoITWi61psYTdsDY01L3hs86ejjjI1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tairi\\Desktop\\a\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj",
+  "projectFilePath": "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tairi\\.nuget\\packages\\mysqlconnector\\1.2.1\\mysqlconnector.1.2.1.nupkg.sha512"
   ],
