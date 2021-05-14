@@ -5,47 +5,43 @@
 
 <form method="POST" asp-action="Editar">
 
-<div style="text-align:left">
+    <div style="text-align:left">
         <h1>Editar produto</h1>
     </div>
 
-    <p>
-        <label asp-for="NomeProduto">Nome do produto</label>
-        <input asp-for="NomeProduto" required placeholder="Insira o nome do produto">
-    </p>
-    <p>
-        <label asp-for="MarcaProduto">Marca do produto</label>
-        <input asp-for="MarcaProduto" required placeholder="Informe a marca do produto">
-    </p>
-    <p>
-        <label asp-for="CorProduto">Cor do produto</label>
-        <input asp-for="CorProduto" required placeholder="Informe a cor do produto">
-    </p>
-    <p>
-        <label asp-for="TamanhoProduto">Tamanho do produto</label>
-        <input asp-for="TamanhoProduto" required placeholder="Tamanho do produto">
-    </p>
-    <p>
-        <label asp-for="QuantidadeEstoque">Quantidade no estoque</label>
-        <input asp-for="QuantidadeEstoque" required placeholder="Informe a quantidade no estoque">
-    </p>
-    <p>
-        <label asp-for="Preco">Preço do produto</label>
-        <input asp-for="Preco" required placeholder="Informe o preço do produto">
-    </p>
-    <p>
-        <label asp-for="DataCadastro">Data de cadastro</label>
-        <input asp-for="DataCadastro" required placeholder="Informe a data de cadastro">
-    </p>
-    <p>
-        <label asp-for="Id">Id do usuario que está cadastrando</label>
-        <input asp-for="Id" required placeholder="Informe o Id do usuario">
-    </p>
-
-    <p>
-        <input type="submit" value="Cadastrar">
-    </p>
-
+    <div class="mb-3">
+        <label asp-for="NomeProduto" class="form-label">Nome do produto</label>
+        <input class="form-control" asp-for="NomeProduto" required placeholder="Insira o nome do produto">
+    </div>
+    <div class="mb-3">
+        <label asp-for="MarcaProduto" class="form-label">Marca do produto</label>
+        <input class="form-control" asp-for="MarcaProduto" required placeholder="Informe a marca do produto">
+    </div>
+    <div class="mb-3">
+        <label asp-for="CorProduto" class="form-label">Cor do produto</label>
+        <input class="form-control" asp-for="CorProduto" required placeholder="Informe a cor do produto">
+    </div>
+    <div class="mb-3">
+        <label asp-for="TamanhoProduto" class="form-label">Tamanho do produto</label>
+        <input class="form-control" asp-for="TamanhoProduto" required placeholder="Informe o tamanho do produto">
+    </div>
+    <div class="mb-3">
+        <label asp-for="QuantidadeEstoque" class="form-label">Quantidade no estoque</label>
+        <input class="form-control" asp-for="QuantidadeEstoque" required placeholder="Informe a quantidade no estoque">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Preco" class="form-label">Preço do produto</label>
+        <input class="form-control" asp-for="Preco" required placeholder="Informe o preço do produto">
+    </div>
+    <div class="mb-3">
+        <label asp-for="DataCadastro" class="form-label">Data de cadastro</label>
+        <input class="form-control" asp-for="DataCadastro" required placeholder="Informe a data de cadastro">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Id" class="form-label">Id do usuario que está cadastrando</label>
+        <input class="form-control" asp-for="Id" required placeholder="Informe o Id do usuario">
+    </div>
+    <button type="submit" class="btn btn-primary" value="Cadastrar">Cadastrar</button>
 </form>
 
 <p>
