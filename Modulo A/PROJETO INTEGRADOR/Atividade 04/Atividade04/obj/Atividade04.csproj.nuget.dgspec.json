@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj": {}
+    "C:\\Users\\Tairik Johnny\\Desktop\\PITECNICO\\Atividade04\\Atividade04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj": {
+    "C:\\Users\\Tairik Johnny\\Desktop\\PITECNICO\\Atividade04\\Atividade04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj",
+        "projectUniqueName": "C:\\Users\\Tairik Johnny\\Desktop\\PITECNICO\\Atividade04\\Atividade04.csproj",
         "projectName": "Atividade04",
-        "projectPath": "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\Atividade04.csproj",
-        "packagesPath": "C:\\Users\\tairi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tairi\\Desktop\\senac\\Tecnico_de_Informatica_Internet_Senac\\Modulo A\\PROJETO INTEGRADOR\\Atividade 04\\Atividade04\\obj\\",
+        "projectPath": "C:\\Users\\Tairik Johnny\\Desktop\\PITECNICO\\Atividade04\\Atividade04.csproj",
+        "packagesPath": "C:\\Users\\Tairik Johnny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tairik Johnny\\Desktop\\PITECNICO\\Atividade04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tairi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tairik Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

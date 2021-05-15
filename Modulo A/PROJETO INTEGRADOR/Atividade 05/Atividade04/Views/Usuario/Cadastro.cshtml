@@ -1,0 +1,39 @@
+@model Usuario
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<form method="POST" asp-action="Cadastro">
+
+    <div class="mb-3">
+        <label asp-for="Nome" class="form-label">Nome</label>
+        <input class="form-control" asp-for="Nome" required placeholder="Insira o nome">
+    </div>
+    <div class="mb-3">
+        <label asp-for="DataNascimento" class="form-label">Data de nascimento</label>
+        <input class="form-control" asp-for="DataNascimento" required placeholder="Insira o data de nascimento">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Login" class="form-label">Login</label>
+        <input class="form-control" asp-for="Login" required placeholder="Insira o login">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Senha" class="form-label">Senha</label>
+        <input class="form-control" asp-for="Senha" required placeholder="Insira o senha">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Conta" class="form-label">Tipo de conta</label>
+        <select asp-for="Conta" name="Conta" class="form-select" required>
+            <option value="colaborador">Colaborador</option>
+            <option value="administrador">Administrador</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary" value="Cadastrar">Cadastrar</button>
+
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>
